@@ -1,17 +1,9 @@
-.shady, .shady a, a .shady, .shady a.new {
+.shady {
     background-color: #252525;
     color: #252525;
-    text-shadow: none;
+    transition: color 0.5s;
 }
-.shady:hover, .shady:active,
-.shady:hover .shady, .shady:active .shady {
-    color: white !important;
-}
-.shady:hover a, a:hover .shady,
-.shady:active a, a:active .shady {
-    color: lightblue !important;
-}
-.shady:hover .new, .shady .new:hover, .new:hover .shady,
-.shady:active .new, .shady .new:active, .new:active .shady {
-    color: #BA0000 !important;
+
+.shady:hover {
+    color: #ffffff;
 }
