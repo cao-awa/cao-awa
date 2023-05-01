@@ -15,7 +15,6 @@
 
 \
 邮件：1501917367@qq.com、3313220756@qq.com（二号机代收）、zhuaidadaya@gmail.com（代收）\
-QQ：1501917367\
 Telegram：https://t.me/cao_awa \
 Twitter：https://twitter.com/cao_awa （~~不要看~~）
 
@@ -36,8 +35,7 @@ Minecraft：Fabric、Quilt，不用Forge！
 
 草没有学习方向和规划，正在杂学
 
-目前正在学习线性代数和分子遗传学\
-正在跟进学习使用JDK19的新特性，或许想学机器学习
+目前正在计划学习神经内科
 
 <hr>
 就这么多啦！
