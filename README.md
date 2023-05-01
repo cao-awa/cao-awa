@@ -14,7 +14,7 @@
 可以通过以下途径认识草
 
 \
-邮件：1501917367@qq.com、3313220756@qq.com（二号机代收）、zhuaidadaya@gmail.com（代收）\
+邮件：cao.awa.www@gmail.com、1501917367@qq.com、3313220756@qq.com（二号机代收）、zhuaidadaya@gmail.com（代收）\
 Telegram：https://t.me/cao_awa \
 Twitter：https://twitter.com/cao_awa （~~不要看~~）
 
