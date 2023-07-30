@@ -21,3 +21,5 @@
 \
 ~~后话：草精神不太正常~~
 <hr>
+
+![](https://count.getloli.com/get/@cao-awa.github.readme)
