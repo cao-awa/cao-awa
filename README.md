@@ -19,6 +19,10 @@
 可以通过Telegram联系到草：https://t.me/cao_awa
 
 <hr>
+package token：
+”ghp_UgALm1Ta2ONYeNh” + ”S2m0XoWSc27BcE22v4Umn”
+
+<hr>
 就这么多啦！
 
 \
