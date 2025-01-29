@@ -16,7 +16,7 @@
 目前正在计划学习神经内科和药理学
 
 <hr>
-可以通过Telegram联系到草：https://t.me/cao_awa
+可以通过Telegram联系到草：https://t.me/cao_qaq
 
 <hr>
 package token：
