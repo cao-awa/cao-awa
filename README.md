@@ -26,8 +26,8 @@ QQ：1501917367\
 X：@cao_awa\
 Github：@cao-awa\
 Gmail：cao.awa.www@gmail.com\
-Gmail备用：zhuaidadaya@gmail.com
-Discord：@cao_awa
+Gmail备用：zhuaidadaya@gmail.com\
+Discord：@cao_awa\
 Discord群组：https://discord.gg/qFaggCAxNc
 
 <hr>
