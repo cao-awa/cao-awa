@@ -16,18 +16,21 @@
 目前正在计划学习神经内科和药理学
 
 <hr>
+
+> 所有联系方式都暂时无法使用，直到此页面更新
+
 联系方式：
 
-Telegram：~~@cao_awa~~（已死） ~~@cao_qaq~~（已死） @syrmaticus  @horornis\
-Discord：@cao_awa\
-Matrix：@cao_awa:matrix.org\
-Matrix备用：@cao-awa:matrix.org\
-QQ：1501917367\
-X：@cao_awa\
-Github：@cao-awa\
-Gmail：cao.awa.www@gmail.com\
-Gmail备用：zhuaidadaya@gmail.com\
-Discord：@cao_awa\
+~~Telegram：@cao_awa（已死） @cao_qaq（已死） @syrmaticus  @horornis~~ \
+~~Discord：@cao_awa~~ \
+~~Matrix：@cao_awa:matrix.org~~ \
+~~Matrix备用：@cao-awa:matrix.org~~ \
+~~QQ：1501917367~~ \
+~~X：@cao_awa~~ \
+~~Github：@cao-awa~~ \
+~~Gmail：cao.awa.www@gmail.com~~ \
+~~Gmail备用：zhuaidadaya@gmail.com~~ \
+~~Discord：@cao_awa~~ \
 Discord群组：https://discord.gg/qFaggCAxNc
 
 <hr>
