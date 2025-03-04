@@ -21,7 +21,7 @@
 
 联系方式：
 
-Telegram：@cao_awa（已死） @cao_qaq（已死） @syrmaticus  @horornis \
+Telegram：@cao_awa（已死） @cao_qaq（已死）  @cao_quq  @horornis \
 Discord：@cao_awa \
 Matrix：@cao_awa:matrix.org \
 Matrix备用：@cao-awa:matrix.org \
