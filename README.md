@@ -36,6 +36,9 @@ package token：
 "ghp_UgALm1Ta2ONYeNh" + "S2m0XoWSc27BcE22v4Umn"
 
 <hr>
+草的维基站： https://www.hyacinthwiki.com
+
+<hr>
 就这么多啦！
 
 \
