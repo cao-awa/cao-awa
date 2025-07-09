@@ -29,7 +29,7 @@ Github：@cao-awa \
 Gmail：cao.awa.www@gmail.com \
 Gmail备用：zhuaidadaya@gmail.com \
 Discord：@cao_awa \
-Discord群组：https://discord.gg/qFaggCAxNc
+Discord群组：https://discord.gg/QCKaJ9duuc
 
 <hr>
 package token：
