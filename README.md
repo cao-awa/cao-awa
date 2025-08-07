@@ -42,7 +42,7 @@ package token：
 > 嘘の多い四月、
 > 花はここで咲、
 
-草目前最新的复查结果提示：RVEF 36、LVEF 34、eGFR 31、体重39KG，目前诊断充血性心力衰竭（HYHA 3）、慢性肾衰竭（CKD 3B，蛋白尿、糖尿）和重度营养不良
+草目前最新的复查结果提示：RVEF 36、LVEF 34、eGFR 31、体重39KG，目前诊断充血性心力衰竭（HYHA 3）、慢性肾衰竭（CKD 3B，蛋白尿、糖尿）和中度营养不良
 
 预期寿命在5年内，后续不进行积极治疗，我会优先考虑姑息治疗，因此我目前会暂停所有的项目，在条件允许时偶尔继续
 
@@ -51,9 +51,9 @@ package token：
 该账号在我走后会转交给我最信任的人，当你发现哪天那些项目开始频繁活跃了，那时我大概是不在了
 
 ```
-The latest reexamination results show: RVEF 36, LVEF 34, eGFR 29, weight 39KG, currently diagnosed with congestive heart failure (HYHA 3), chronic renal failure (CKD 4, proteinuria, diabetes) and severe malnutrition
+The latest reexamination results show: RVEF 36, LVEF 34, eGFR 31, weight 39KG, currently diagnosed with congestive heart failure (HYHA 3), chronic renal failure (CKD 3B, proteinuria, diabetes) and moderate malnutrition
 
-Life expectancy is within 2 years, no active treatment is given in the future, I will give priority to palliative care, so I will suspend all projects for now and continue occasionally when conditions permit
+Life expectancy is within 5 years, no active treatment is given in the future, I will give priority to palliative care, so I will suspend all projects for now and continue occasionally when conditions permit
 
 Maybe I will never see you again in a few years, or maybe tomorrow
 
