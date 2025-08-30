@@ -38,8 +38,12 @@ package token：
 <hr>
 草的维基站： https://www.hyacinthwiki.com
 
+# 编程语言
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cao-awa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
 # 其他
-> 嘘の多い四月、
+> 堕ちた世界の終焉で、
+> 絶間ない赤を抱く、
 > 花はここで咲、
 
 草目前最新的复查结果提示：RVEF 36、LVEF 34、eGFR 31、体重39KG，目前诊断充血性心力衰竭（HYHA 3）、慢性肾衰竭（CKD 3B，蛋白尿、糖尿）和中度营养不良
