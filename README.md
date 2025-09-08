@@ -38,6 +38,9 @@ package token：
 <hr>
 草的维基站： https://www.hyacinthwiki.com
 
+<hr>
+注意：任何和草的聊天内容都会被完整记录且不可撤回，请勿发送你不希望被保存的信息
+
 # 编程语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cao-awa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
