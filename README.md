@@ -23,7 +23,7 @@ Telegram：@cao_awa（已死） @cao_qaq（已死）  @cao_quq  @cao_qvq \
 Discord：@cao_awa \
 Matrix：@cao_awa:matrix.org \
 Matrix备用：@cao-awa:matrix.org \
-QQ：1501917367、3665303529、1955547251 \
+QQ：1501917367（不可用）、3665303529、1955547251（不可用） \
 X：@cao_awa \
 Github：@cao-awa \
 Gmail：cao.awa.www@gmail.com \
