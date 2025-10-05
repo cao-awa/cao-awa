@@ -19,7 +19,7 @@
 
 联系方式：
 
-Telegram：@cao_awa（不可用） @cao_qaq（不可用）  @cao_quq  @cao_qvq \
+Telegram：@cao_awa（不可用） @cao_qaq（不可用）  @cao_quq（不可用）  @cao_qvq \
 Discord：@cao_awa \
 Matrix：@cao_awa:matrix.org \
 Matrix备用：@cao-awa:matrix.org \
@@ -51,7 +51,7 @@ GitHub token（仅有read package权限）："ghp_UgALm1Ta2ONYeNh" + "S2m0XoWSc2
 > 
 > 花はここで咲、
 
-草目前最新的复查结果提示：RVEF 36、LVEF 34、eGFR 31、体重39KG，目前诊断充血性心力衰竭（HYHA 3）、慢性肾衰竭（CKD 3B，蛋白尿、糖尿）和中度营养不良
+草目前最新的复查结果提示：RVEF 37、LVEF 36、eGFR 42、体重39KG，目前诊断充血性心力衰竭（HYHA 3）、慢性肾衰竭（CKD 3B，蛋白尿、糖尿）和中度营养不良
 
 预期寿命在5年内，后续不进行积极治疗，我会优先考虑姑息治疗，因此我目前会暂停所有的项目，在条件允许时偶尔继续
 
