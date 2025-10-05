@@ -19,18 +19,27 @@
 
 联系方式：
 
-Telegram：@cao_awa（不可用） @cao_qaq（不可用）  @cao_quq（不可用）  @cao_qvq \
-Discord：@cao_awa \
-Matrix：@cao_awa:matrix.org \
-Matrix备用：@cao-awa:matrix.org \
-QQ：1501917367（不可用）、3665303529（不可用）、1955547251、3186330288 \
-X：@cao_awa \
-Github：@cao-awa \
+## Telegram
+@cao_qvq、@cao_awa（不可用）、@cao_qaq（不可用）、@cao_quq（不可用） 
+## Discord
+@cao_awa 
+## Matrix
+@cao_awa:matrix.org \
+备用：@cao-awa:matrix.org 
+## QQ
+1955547251、3186330288、1501917367（明年年初解封）、3665303529（暂时不可用）
+## X（Twitter）
+@cao_awa 
+## Github
+@cao-awa 
+## Gmail
 Gmail：cao.awa.www@gmail.com \
-Gmail备用：zhuaidadaya@gmail.com \
-Discord：@cao_awa \
+Gmail备用：zhuaidadaya@gmail.com 
+## Discord
+@cao_awa \
 Discord群组：https://discord.gg/QCKaJ9duuc
 
+## 备注
 草接受任何非广告、诈骗的聊天，哪怕只是想认识一个新朋友，都可以来找我哦！
 
 但请注意：任何和草的聊天内容都会被完整记录且不可撤回，请勿发送你不希望被保存的信息！
