@@ -8,7 +8,7 @@
 
 草是中文母语者，会三种语言：``` 中文>英文>日语 ```
 
-编程语言，绝大部分不用在开源项目：```Kotlin>Java>Python>C>Cpp>scala>TypeScript>JavaScript```
+偏好编程语言，绝大部分不用在开源项目：```Kotlin>Java>C>Cpp>Python>Scala>TypeScript>JavaScript```
 
 \
 喜欢涩涩、二次元、编程、聊天 \
