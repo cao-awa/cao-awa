@@ -47,9 +47,6 @@ Discord群组：https://discord.gg/QCKaJ9duuc
 但请注意：任何和草的聊天内容都会被完整记录且不可撤回，请勿发送你不希望被保存的信息！
 
 <hr>
-GitHub token（仅有read package权限）："ghp_UgALm1Ta2ONYeNh" + "S2m0XoWSc27BcE22v4Umn"
-
-<hr>
 草的维基站： https://www.hyacinthwiki.com
 
 # 编程语言
