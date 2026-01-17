@@ -49,9 +49,6 @@ Discord群组：https://discord.gg/QCKaJ9duuc
 <hr>
 草的维基站： https://www.hyacinthwiki.com
 
-# 编程语言
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cao-awa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
 # 其他
 > 堕ちた世界の終焉で、
 > 
@@ -73,6 +70,8 @@ Discord群组：https://discord.gg/QCKaJ9duuc
 \
 ~~后话：草精神不太正常~~
 <hr>
+
+[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=cao-awa&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://count.getloli.com/get/@cao-awa.github.readme?theme=rule34)
 
